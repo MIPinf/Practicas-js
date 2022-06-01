@@ -1,0 +1,25 @@
+//Ejercicio 1
+numero=prompt("Ingresa un numero");
+resultado=numero*2;
+console.log(numero+"*2="+resultado);
+VM401:3 30*2=600
+
+//Ejercicio 2
+numero1=prompt("Inresa un numero");
+numero2=prompt("Ingresa otro numero");
+resta=numero1-numero2;
+console.log(numero1+" - "+numero2+" = "+resta);
+VM405:4 12 - 1452 = -1440
+
+//Ejercicio 3
+radio=5.3;
+areaCirculo= Math.pow(3.1416*radio,2);
+console.log("El radio del Circulo de r= "+radio+" es: "+areaCirculo);
+VM409:3 El radio del Circulo de r= 5.3 es: 277.23848423039993
+
+//Ejercicio 4
+D=8;
+d=6;
+a=(D*d)/2
+console.log("Area de rombo con D: "+D+" y d: "+d+" es: "+a);
+VM43:4 Area de rombo con D: 8 y d: 6 es: 24
